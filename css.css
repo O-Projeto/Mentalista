@@ -1,0 +1,37 @@
+body {
+    background-image: url("./img/back copiar.png");
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    text-align: center;
+    background-color: #000000;
+    background-repeat: no-repeat;
+    height: 100vh;
+    color: white;
+}
+.jogo{
+    margin-top: 35rem;
+
+}
+#chute{
+    border: none;
+    border-radius: 2rem;
+    height: 1.5rem;
+  
+}
+#button{
+    border: none;
+    border-radius: 0.5rem;
+    height: 2rem;
+}
+#button:hover{
+    background-color: blueviolet;
+    cursor: pointer;
+    transition: 0.5s;
+    color: white;
+}
+.nome{
+    text-decoration: none;
+    color: white;
+
+
+}
+
